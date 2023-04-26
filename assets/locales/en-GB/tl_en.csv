@@ -1,0 +1,5 @@
+LOGIN_USERNAME;Username
+LOGIN_PASSWORD;Password
+SHOW_PWD;Show password
+LOGIN_BTN;Enter
+APP_TITLE;Team TL manager {{LOGIN_BTN}}

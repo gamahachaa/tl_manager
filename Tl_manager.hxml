@@ -1,0 +1,15 @@
+-lib haxeui-core
+-lib haxeui-html5
+-lib xapi
+-lib tstool
+-lib signals
+-lib thx.core
+-lib csv
+-lib uglifyjs
+-lib lrs
+-lib utils
+-lib quality
+-cp src
+-cp modules
+-js bin/team_tl.js
+-main Main
